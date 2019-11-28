@@ -1,0 +1,293 @@
+0000.000 (0) Opened log file at time: Sat, 06 Feb 2016 06:47:32 +0000 on http://hairdecoded.com/shop
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.23 WP: 4.4.2 PHP: 5.4.45 (Linux host.hostigb.com 2.6.32-042stab108.8 #1 SMP Fri Jan 22 16:04:50 MSK 2016 i686) MySQL: 5.6.28 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 31.5M | 32M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.130 (0) Free space on disk containing Updraft's temporary directory: 61487.8 Mb
+0000.133 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.138 (0) Requesting semaphore lock (fd)
+0000.139 (0) Set semaphore last lock (fd) time to 2016-02-06 06:47:32
+0000.139 (0) Semaphore lock (fd) complete
+0000.143 (0) Backup run: resumption=0, nonce=beb04e1d892f, begun at=1454741252 (0s ago), job type=backup
+0000.144 (0) Scheduling a resumption (1) after 300 seconds (1454741552) in case this run gets aborted
+0000.154 (0) OpenVZ; reported memory: 2304 Mb
+0000.155 (0) Checking if we have a zip executable available
+0000.156 (0) Testing: /usr/bin/zip
+0000.163 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.164 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.165 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.165 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=128) (out=105) (deflated 18%)
+0000.166 (0) Output: total bytes=128, compressed=105 -> 18% savings
+0000.173 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=135) (out=111) (deflated 18%)
+0000.174 (0) Output: total bytes=263, compressed=216 -> 18% savings
+0000.183 (0) Working binary zip found: /usr/bin/zip
+0000.184 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.185 (0) Creation of backups of directories: beginning
+0000.187 (0) Beginning creation of dump of plugins (split every: 400 Mb)
+0000.404 (0) Total entities for the zip file: 564 directories, 3365 files (0 skipped as non-modified), 49.9 Mb
+0000.408 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0000.411 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0000.415 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0000.418 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0000.421 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0000.422 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.7 Mb, 3365 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0000.695 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: size is now: 9.20 Mb
+0000.700 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 600 files added (on-disk size: 9433.5 Kb)
+0000.703 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 700 files added (on-disk size: 9433.5 Kb)
+0000.707 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 800 files added (on-disk size: 9433.5 Kb)
+0000.710 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 900 files added (on-disk size: 9433.5 Kb)
+0000.714 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1000 files added (on-disk size: 9433.5 Kb)
+0000.714 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.9 Mb, 3365 files batched, 501 (1002) added so far); re-opening (prior size: 9433.5 Kb)
+0001.000 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1100 files added (on-disk size: 10847.7 Kb)
+0001.004 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1200 files added (on-disk size: 10847.7 Kb)
+0001.007 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1300 files added (on-disk size: 10847.7 Kb)
+0001.011 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1400 files added (on-disk size: 10847.7 Kb)
+0001.014 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1500 files added (on-disk size: 10847.7 Kb)
+0001.015 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17 Mb, 3365 files batched, 501 (1503) added so far); re-opening (prior size: 10847.7 Kb)
+0002.075 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: size is now: 15.60 Mb
+0002.081 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1600 files added (on-disk size: 15948.3 Kb)
+0002.084 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1700 files added (on-disk size: 15948.3 Kb)
+0002.088 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1800 files added (on-disk size: 15948.3 Kb)
+0002.091 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 1900 files added (on-disk size: 15948.3 Kb)
+0002.095 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2000 files added (on-disk size: 15948.3 Kb)
+0002.096 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.4 Mb, 3365 files batched, 501 (2004) added so far); re-opening (prior size: 15948.3 Kb)
+0002.237 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2100 files added (on-disk size: 16493.9 Kb)
+0002.240 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2200 files added (on-disk size: 16493.9 Kb)
+0002.243 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2300 files added (on-disk size: 16493.9 Kb)
+0002.247 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2400 files added (on-disk size: 16493.9 Kb)
+0002.250 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2500 files added (on-disk size: 16493.9 Kb)
+0002.251 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.1 Mb, 3365 files batched, 501 (2505) added so far); re-opening (prior size: 16493.9 Kb)
+0002.496 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2600 files added (on-disk size: 17661.6 Kb)
+0002.500 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2700 files added (on-disk size: 17661.6 Kb)
+0002.503 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2800 files added (on-disk size: 17661.6 Kb)
+0002.506 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 2900 files added (on-disk size: 17661.6 Kb)
+0002.510 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 3000 files added (on-disk size: 17661.6 Kb)
+0002.511 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.5 Mb, 3365 files batched, 501 (3006) added so far); re-opening (prior size: 17661.6 Kb)
+0002.948 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 3100 files added (on-disk size: 19740.2 Kb)
+0002.952 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 3200 files added (on-disk size: 19740.2 Kb)
+0002.955 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip.tmp: 3300 files added (on-disk size: 19740.2 Kb)
+0003.461 (0) Created plugins zip (0) - 21362.2 Kb in 3.1 s (6785 Kb/s) (SHA1 checksum: c0c01dfe11ea81b4865a26c82a3dec28f84868cd)
+0003.465 (0) Beginning creation of dump of themes (split every: 400 Mb)
+0003.620 (0) Total entities for the zip file: 121 directories, 1119 files (0 skipped as non-modified), 348 Mb
+0003.624 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0003.628 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0003.631 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0003.635 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0003.638 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0003.639 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (20.2 Mb, 1119 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0003.988 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: size is now: 16.30 Mb
+0003.994 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 600 files added (on-disk size: 16682.3 Kb)
+0003.997 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 700 files added (on-disk size: 16682.3 Kb)
+0004.000 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 Mb added on this batch (53.1 Mb, 1119 files batched, 250 (751) added so far); re-opening (prior size: 16682.3 Kb)
+0004.514 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: size is now: 65.60 Mb
+0004.517 (0) A useful amount of data was added after this amount of zip processing: 1.2 s (normalised: 0.5 s, rate: 47076.1 Kb/s)
+0004.519 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.15485095978, normalised_time=0.543799833428, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=209715200)
+0004.522 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 800 files added (on-disk size: 67135.7 Kb)
+0004.524 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 200 Mb added on this batch (200 Mb, 1119 files batched, 117 (868) added so far); re-opening (prior size: 67135.7 Kb)
+0010.096 (0) A useful amount of data was added after this amount of zip processing: 5.7 s (normalised: 5.7 s, rate: 35725.9 Kb/s)
+0010.097 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=5.73344993591, normalised_time=5.73253946579, max_time=-1, data points known=0, max_bytes=209715200)
+0010.099 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 900 files added (on-disk size: 77732.2 Kb)
+0010.103 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 1000 files added (on-disk size: 77732.2 Kb)
+0010.106 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip.tmp: 1100 files added (on-disk size: 77732.2 Kb)
+0012.090 (0) Created themes zip (0) - 84479.9 Kb in 8.5 s (9941 Kb/s) (SHA1 checksum: e75efe67b06fce4bdf288c1dd51fb79c581dd8a6)
+0012.093 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0012.094 (0) Looking for candidates to back up in: /home/shauna0522/public_html/shop/wp-content/uploads
+0012.095 (0) finding files: 2016: adding to list (1)
+0012.095 (0) finding files: woocommerce_uploads: adding to list (2)
+0012.096 (0) finding files: 2015: adding to list (3)
+0012.097 (0) finding files: GeoIPv6.dat: adding to list (4)
+0012.097 (0) finding files: GeoIP.dat: adding to list (5)
+0012.098 (0) finding files: 2014: adding to list (6)
+0012.098 (0) finding files: wc-logs: adding to list (7)
+0012.099 (0) finding files: layerslider: adding to list (8)
+0012.100 (0) finding files: js_composer: adding to list (9)
+0012.100 (0) finding files: 2013: adding to list (10)
+0012.101 (0) Beginning creation of dump of uploads (split every: 400 Mb)
+0012.301 (0) Total entities for the zip file: 24 directories, 3734 files (0 skipped as non-modified), 285.6 Mb
+0012.305 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0012.308 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0012.312 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0012.315 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0012.318 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0012.319 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (48.3 Mb, 3734 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0012.818 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: size is now: 47.30 Mb
+0012.823 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 600 files added (on-disk size: 48464.5 Kb)
+0012.826 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 700 files added (on-disk size: 48464.5 Kb)
+0012.830 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 800 files added (on-disk size: 48464.5 Kb)
+0012.833 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 900 files added (on-disk size: 48464.5 Kb)
+0012.836 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1000 files added (on-disk size: 48464.5 Kb)
+0012.837 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (36.2 Mb, 3734 files batched, 501 (1002) added so far); re-opening (prior size: 48464.5 Kb)
+0013.303 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: size is now: 83.60 Mb
+0013.308 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1100 files added (on-disk size: 85622.7 Kb)
+0013.311 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1200 files added (on-disk size: 85622.7 Kb)
+0013.315 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1300 files added (on-disk size: 85622.7 Kb)
+0013.318 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1400 files added (on-disk size: 85622.7 Kb)
+0013.321 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1500 files added (on-disk size: 85622.7 Kb)
+0013.322 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (31.4 Mb, 3734 files batched, 501 (1503) added so far); re-opening (prior size: 85622.7 Kb)
+0013.715 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: size is now: 115.10 Mb
+0013.721 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1600 files added (on-disk size: 117889.9 Kb)
+0013.724 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1700 files added (on-disk size: 117889.9 Kb)
+0013.727 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1800 files added (on-disk size: 117889.9 Kb)
+0013.731 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 1900 files added (on-disk size: 117889.9 Kb)
+0013.734 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2000 files added (on-disk size: 117889.9 Kb)
+0013.735 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (39.1 Mb, 3734 files batched, 501 (2004) added so far); re-opening (prior size: 117889.9 Kb)
+0016.295 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: size is now: 154.30 Mb
+0016.300 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2100 files added (on-disk size: 158044 Kb)
+0016.304 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2200 files added (on-disk size: 158044 Kb)
+0016.307 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2300 files added (on-disk size: 158044 Kb)
+0016.311 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2400 files added (on-disk size: 158044 Kb)
+0016.314 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2500 files added (on-disk size: 158044 Kb)
+0016.315 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (23 Mb, 3734 files batched, 501 (2505) added so far); re-opening (prior size: 158044 Kb)
+0017.960 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2600 files added (on-disk size: 181721.1 Kb)
+0017.963 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2700 files added (on-disk size: 181721.1 Kb)
+0017.967 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2800 files added (on-disk size: 181721.1 Kb)
+0017.970 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 2900 files added (on-disk size: 181721.1 Kb)
+0017.973 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 3000 files added (on-disk size: 181721.1 Kb)
+0017.974 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (46.6 Mb, 3734 files batched, 501 (3006) added so far); re-opening (prior size: 181721.1 Kb)
+0018.593 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: size is now: 224.20 Mb
+0018.599 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 3100 files added (on-disk size: 229567.5 Kb)
+0018.602 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 3200 files added (on-disk size: 229567.5 Kb)
+0018.606 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 3300 files added (on-disk size: 229567.5 Kb)
+0018.609 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 3400 files added (on-disk size: 229567.5 Kb)
+0018.613 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 3500 files added (on-disk size: 229567.5 Kb)
+0018.614 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (42.8 Mb, 3734 files batched, 501 (3507) added so far); re-opening (prior size: 229567.5 Kb)
+0019.289 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 3600 files added (on-disk size: 273538 Kb)
+0019.293 (0) Zip: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip.tmp: 3700 files added (on-disk size: 273538 Kb)
+0022.184 (0) Created uploads zip (0) - 292121.1 Kb in 10 s (29346.3 Kb/s) (SHA1 checksum: 4ac942a11b4355f05c9055b1de2941b8ca44cd10)
+0022.186 (0) Beginning backup of other directories found in the content directory (index: 0)
+0022.187 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0022.188 (0) Looking for candidates to back up in: /home/shauna0522/public_html/shop/wp-content
+0022.189 (0) finding files: index.php: adding to list (1)
+0022.189 (0) finding files: upgrade: skipping: excluded by options
+0022.190 (0) finding files: updraft: skipping: this is the updraft directory
+0022.190 (0) finding files: plugins: skipping: this is the plugins directory
+0022.191 (0) finding files: themes: skipping: this is the themes directory
+0022.191 (0) finding files: uploads: skipping: this is the uploads directory
+0022.366 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 Mb
+0022.374 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-others.zip.tmp: size is now: 0.00 Mb
+0022.378 (0) Created others zip (0) - 0.2 Kb in 0 s (14.1 Kb/s) (SHA1 checksum: 40b59c3996b2d4d15a6caf0f3a4fab2d525ab6e1)
+0022.382 (0) Saving backup status to database (elements: 8)
+0022.384 (0) Beginning creation of database dump (WordPress DB)
+0022.385 (0) Testing: /usr/bin/mysqldump
+0022.552 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0022.573 (0) Table wp_options: Total expected rows (approximate): 350
+0022.627 (0) Table wp_options: Total rows added: 349 in 0.05 seconds
+0022.628 (0) Table wp_options: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_options.table.gz - 133.7 Kb)
+0022.632 (0) Table wp_users: Total expected rows (approximate): 1
+0022.635 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0022.636 (0) Table wp_users: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_users.table.gz - 0.5 Kb)
+0022.640 (0) Table wp_usermeta: Total expected rows (approximate): 24
+0022.643 (0) Table wp_usermeta: Total rows added: 24 in 0.00 seconds
+0022.644 (0) Table wp_usermeta: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_usermeta.table.gz - 1.5 Kb)
+0022.647 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0022.648 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0022.649 (0) Table wp_commentmeta: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_commentmeta.table.gz - 0.4 Kb)
+0022.652 (0) Table wp_comments: Total expected rows (approximate): 28
+0022.656 (0) Table wp_comments: Total rows added: 28 in 0.00 seconds
+0022.657 (0) Table wp_comments: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_comments.table.gz - 2.8 Kb)
+0022.661 (0) Table wp_links: Total expected rows (approximate): 0
+0022.663 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0022.663 (0) Table wp_links: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_links.table.gz - 0.4 Kb)
+0022.666 (0) Table wp_postmeta: Total expected rows (approximate): 5992
+0022.830 (0) Table wp_postmeta: Total rows added: 5992 in 0.16 seconds
+0022.831 (0) Table wp_postmeta: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_postmeta.table.gz - 81 Kb)
+0022.834 (0) Table wp_posts: Total expected rows (approximate): 824
+0022.956 (0) Table wp_posts: Total rows added: 824 in 0.12 seconds
+0022.958 (0) Table wp_posts: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_posts.table.gz - 72.7 Kb)
+0022.961 (0) Table wp_term_relationships: Total expected rows (approximate): 296
+0022.966 (0) Table wp_term_relationships: Total rows added: 296 in 0.00 seconds
+0022.967 (0) Table wp_term_relationships: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_term_relationships.table.gz - 1.2 Kb)
+0022.970 (0) Table wp_term_taxonomy: Total expected rows (approximate): 96
+0022.975 (0) Table wp_term_taxonomy: Total rows added: 96 in 0.00 seconds
+0022.975 (0) Table wp_term_taxonomy: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_term_taxonomy.table.gz - 1.1 Kb)
+0022.978 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0022.980 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0022.981 (0) Table wp_termmeta: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_termmeta.table.gz - 0.4 Kb)
+0022.983 (0) Table wp_terms: Total expected rows (approximate): 96
+0022.987 (0) Table wp_terms: Total rows added: 96 in 0.00 seconds
+0022.988 (0) Table wp_terms: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_terms.table.gz - 1.3 Kb)
+0022.991 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0022.992 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0022.993 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 Kb)
+0022.996 (0) Table wp_woocommerce_termmeta: Total expected rows (approximate): 6
+0022.998 (0) Table wp_woocommerce_termmeta: Total rows added: 6 in 0.00 seconds
+0022.999 (0) Table wp_woocommerce_termmeta: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_termmeta.table.gz - 0.4 Kb)
+0023.002 (0) Table wp_cntctfrm_field: Total expected rows (approximate): 13
+0023.004 (0) Table wp_cntctfrm_field: Total rows added: 13 in 0.00 seconds
+0023.004 (0) Table wp_cntctfrm_field: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_cntctfrm_field.table.gz - 0.4 Kb)
+0023.007 (0) Table wp_layerslider: Total expected rows (approximate): 3
+0023.014 (0) Table wp_layerslider: Total rows added: 3 in 0.01 seconds
+0023.016 (0) Table wp_layerslider: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_layerslider.table.gz - 8.8 Kb)
+0023.019 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0023.020 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0023.021 (0) Table wp_woocommerce_api_keys: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_api_keys.table.gz - 0.4 Kb)
+0023.024 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0023.026 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0023.027 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 Kb)
+0023.030 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0023.032 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0023.032 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 Kb)
+0023.035 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0023.037 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0023.037 (0) Table wp_woocommerce_order_items: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_order_items.table.gz - 0.3 Kb)
+0023.040 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0023.042 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0023.043 (0) Table wp_woocommerce_sessions: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_sessions.table.gz - 0.6 Kb)
+0023.058 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0023.060 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0023.060 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 Kb)
+0023.063 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0023.065 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0023.066 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 Kb)
+0023.069 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_options.table.gz (1/23): adding to final database dump
+0023.110 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_users.table.gz (2/23): adding to final database dump
+0023.111 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_usermeta.table.gz (3/23): adding to final database dump
+0023.112 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_commentmeta.table.gz (4/23): adding to final database dump
+0023.113 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_comments.table.gz (5/23): adding to final database dump
+0023.114 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_links.table.gz (6/23): adding to final database dump
+0023.115 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_postmeta.table.gz (7/23): adding to final database dump
+0023.168 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_posts.table.gz (8/23): adding to final database dump
+0023.203 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_term_relationships.table.gz (9/23): adding to final database dump
+0023.205 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_term_taxonomy.table.gz (10/23): adding to final database dump
+0023.207 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_termmeta.table.gz (11/23): adding to final database dump
+0023.207 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_terms.table.gz (12/23): adding to final database dump
+0023.209 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_order_itemmeta.table.gz (13/23): adding to final database dump
+0023.209 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_termmeta.table.gz (14/23): adding to final database dump
+0023.210 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_cntctfrm_field.table.gz (15/23): adding to final database dump
+0023.211 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_layerslider.table.gz (16/23): adding to final database dump
+0023.217 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_api_keys.table.gz (17/23): adding to final database dump
+0023.217 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_attribute_taxonomies.table.gz (18/23): adding to final database dump
+0023.218 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (19/23): adding to final database dump
+0023.219 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_order_items.table.gz (20/23): adding to final database dump
+0023.220 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_sessions.table.gz (21/23): adding to final database dump
+0023.221 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_tax_rate_locations.table.gz (22/23): adding to final database dump
+0023.221 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db-table-wp_woocommerce_tax_rates.table.gz (23/23): adding to final database dump
+0023.222 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db.gz: finished writing out complete database file (288 Kb)
+0023.228 (0) Total database tables backed up: 23 (backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db.gz, size: 312639, checksum (SHA1): edbd8825e923a6ce405c9daf88c483d631c580b0)
+0023.229 (0) Saving backup history
+0023.232 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0023.233 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0023.234 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0023.234 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-others.zip: others: This file has not yet been successfully uploaded: will queue
+0023.235 (0) backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db.gz: db: This file has not yet been successfully uploaded: will queue
+0023.236 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0023.238 (0) Cloud backup selection (1/1): none (last)
+0023.239 (0) No remote despatch: user chose no remote backup service
+0023.240 (0) Recording as successfully uploaded: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-plugins.zip (4523e20ec05d7e001dfafd55ff77aa8c)
+0023.244 (0) Recording as successfully uploaded: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-themes.zip (11bb4523558bbfd59807bccea774a16e)
+0023.247 (0) Recording as successfully uploaded: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-uploads.zip (d530a4b749cb68b52efa0617f5b943c1)
+0023.250 (0) Recording as successfully uploaded: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-others.zip (9c7725fdb10d868b84cd0c5e8e515cc1)
+0023.254 (0) Recording as successfully uploaded: backup_2016-02-06-0647_Don039t_Touch_My_Hair_beb04e1d892f-db.gz (521aa1eb88cb0f004f700e8b5c6e9cf1)
+0023.258 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0023.258 (0) Number of backup sets in history: 1
+0023.259 (0) Examining backup set with datestamp: 1454741252 (Feb 06 2016 06:47:32)
+0023.260 (0) This backup set (1454741252) is the backup set just made, so will not be deleted.
+0023.260 (0) This backup set (1454741252) is the backup set just made, so will not be deleted, despite being over the retain limit.
+0023.261 (0) This backup set (1454741252) is the backup set just made, so will not be deleted, despite being over the retain limit.
+0023.261 (0) This backup set (1454741252) is the backup set just made, so will not be deleted, despite being over the retain limit.
+0023.261 (0) This backup set (1454741252) is the backup set just made, so will not be deleted, despite being over the retain limit.
+0023.261 (0) 1454741252: this backup set remains non-empty (1/1); will retain in history
+0023.262 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0023.264 (0) Resume backup (beb04e1d892f, 0): finish run
+0023.265 (0) Decremented the semaphore (fd) by 1
+0023.266 (0) Semaphore (fd) unlocked
+0023.266 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0023.269 (0) No email will/can be sent - the user has not configured an email address.
+0023.270 (0) The backup apparently succeeded and is now complete
